@@ -1,6 +1,6 @@
-![screenshot](https://raw.githubusercontent.com/jeffThompson/DarkArduinoTheme/master/screenshot.png)
+![screenshot](https://raw.githubusercontent.com/christophejourdan/DarkArduinoTheme/master/screenshot.png)
 
-Dark Arduino Theme
+My darker Arduino Theme
 ================
 
 Revised for Arduino version 1.6.6+, not tested with earlier versions.
@@ -15,4 +15,4 @@ The newest version of the Arduino IDE makes creating custom themes trickier: you
 
 \- \- \-
 
-Released under [Creative Commons BY-NC-SA license](http://creativecommons.org/licenses/by-nc-sa/3.0/) - feel free to use but [please let me know](http://www.jeffreythompson.org).
+Released under [Creative Commons BY-NC-SA license](http://creativecommons.org/licenses/by-nc-sa/3.0/) - feel free to use.
